@@ -69,7 +69,7 @@ let b=prompt("Enter your name(Hamza)")
 let object={
          name:"Hamza",
          maris:function (){document.write()
-            if(b === "hamza"){
+            if(b === "Hamza"){
             document.write("Welcome to the website.")
             }
             else if(!b){ document.write("Please enter your name.")}
